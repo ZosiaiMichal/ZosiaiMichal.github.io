@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="Description" content="Tu wpisz opis zawartości strony" />
+        <meta name="Keywords" content="Tu wpisz wyrazy kluczowe rozdzielone przecinkami"
+        />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <title>Goofy Kanye West</title>
+    </head>
+    <body>
+        <h1>Kichająca foka</h1>
+        <h1>kichajaca foka</h1>
+        <section>
+            <img src="download.jpg" alt="hehhehhehehhe" />
+
+            <video src="seal.mp4" type="video/mp4" controls autoplay></video>
+            <a href="1.html">
+                <canvas id="myCanvas" width="200" height="100" style="border: 1px solid #000000"> </canvas>
+            </a>
+        </section>
+        
+        <section>
+        <a href="2.html"> Zdjęcia słodkuch piesków &#128525 </a>
+    </section>
+
+    <section>
+
+        Czarna Pantera – amerykański fantastycznonaukowy film akcji z 2018 roku na podstawie serii komiksów o superbohaterze o tym samym pseudonimie wydawnictwa Marvel Comics. Za reżyserię odpowiadał Ryan Coogler na podstawie scenariusza napisanego wspólnie z Joem Robertem Colem.
+        
+        <a href="zobacz.html">Horoskop dla Wodnika 1 listopada 2022, wtorek</a>
+        
+        
+    </section>
+
+
+    <footer>
+        <h3>Źródła:</h3>
+        <p>https://www.youtube.com/shorts/xANnLy9aljg</p>
+        <p>https://www.astromagia.pl/</p>
+        <p>https://pl.wikipedia.org/wiki/Czarna_Pantera_(film_2018)</p>
+        <p>https://www.w3.org/Style/Examples/007/center.en.html</p>
+        <section><a href="mailto:student@piwo.pl">kontakt</a></section>
+    </footer>
+</body>
+
+    <script>
+        var c = document.getElementById("myCanvas")
+        var ctx = c.getContext("2d")
+        ctx.font = "30px Arial"
+        ctx.strokeText("FOKA", 10, 50)
+    </script>
+</html>

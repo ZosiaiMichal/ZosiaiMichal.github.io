@@ -1,0 +1,45 @@
+body {
+    background-color: #ffb3ff;
+    font-family: "Comic Sans MS", "Comic Sans";
+}
+section {
+    border: 1px rgb(255, 0, 111) solid;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    background-size: 500px;
+    text-align: center;
+    background-color: #d742f5;
+
+	
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+img {
+    width: 100%;
+}
+#navbar {
+  background-color: #70088a; /* Black background color */
+  position: fixed; /* Make it stick/fixed */
+  top: 0px; /* Hide the navbar 50 px outside of the top view */
+  width: 100%; /* Full width */
+  transition: top 0.3s; /* Transition effect when sliding down (and up) */
+}
+
+/* Style the navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: bottom;
+  padding: 15px;
+  text-decoration: none;
+}
+
+#navbar a:hover {
+  background-color: #cfa9eb;
+  color: black;
+}
